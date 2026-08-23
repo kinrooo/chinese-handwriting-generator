@@ -1,0 +1,15 @@
+{
+  "package": "handrightbeta",
+  "version": "8.7.0",
+  "upstream_repository": "https://github.com/Gsllchb/Handright",
+  "license": "BSD-3-Clause",
+  "modifications": "none",
+  "files": {
+    "LICENSE.txt": "be3665037fe6ae40a009eed0ba34ba78abd6c1a5c3484b06f7a3383f77ed8e0b",
+    "handright/__init__.py": "1fbdc8b775f629b346e6022fc901611d863e58092b3903e73d3fc90efa70df02",
+    "handright/_core.py": "89c13590c7a0d22be6368faaae52c8865f79184f909ad01d74ad1c653a4e612f",
+    "handright/_exceptions.py": "42bf2b76deba5eefe1c99f2ad28cae94d9a0e3499d093f750ef732e0c479492d",
+    "handright/_template.py": "eddda5048c35a06f4f29c01c318397123e8ed631bf973502451415fe82c3c74c",
+    "handright/_util.py": "70ccc8ad31ad9b90e88b327d5d2762830dd52beced79c65dd6d0a45a4241580e"
+  }
+}

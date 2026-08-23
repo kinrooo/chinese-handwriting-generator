@@ -1,0 +1,21 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.txt text eol=lf
+*.ttf binary
+*.otf binary
+*.ttc binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+
+# Preserve integrity-pinned third-party bytes exactly as vendored.
+assets/fonts/** -text -whitespace
+assets/fonts/fonts-manifest.json text eol=lf
+scripts/vendor/handrightbeta/** -text -whitespace
+scripts/vendor/handrightbeta/UPSTREAM.md text eol=lf
+scripts/vendor/handrightbeta/vendor-lock.json text eol=lf

@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "sources": [
+    {
+      "repository": "https://github.com/google/fonts",
+      "commit": "ec626514f79f831f1ab848a82114a0ce7e2d6372",
+      "downloaded_at": "2026-08-23"
+    },
+    {
+      "repository": "https://github.com/lxgw/kose-font",
+      "tag": "v3.126",
+      "commit": "58beef8eceeab3ed51d5da173e016842dd5681fd",
+      "downloaded_at": "2026-08-23"
+    }
+  ],
+  "runtime_download_required": false,
+  "fonts": [
+    {
+      "id": "mashanzheng",
+      "family": "Ma Shan Zheng",
+      "style_label_zh": "厚重题字",
+      "path": "mashanzheng/MaShanZheng-Regular.ttf",
+      "sha256": "6d2546bb189c732a8ca29af9e22457b152387d158aa459e4ac2ce1e51788b7fb",
+      "license": "OFL-1.1",
+      "license_path": "mashanzheng/OFL.txt",
+      "license_sha256": "d7bdb1cee215b689e23c2f95672a6084c790542170648267a55114103d756a08",
+      "metadata_path": "mashanzheng/METADATA.pb",
+      "copyright": "Copyright 2018 The Ma Shan Zheng Project Authors (https://github.com/googlefonts/mashanzheng)",
+      "upstream_repository": "https://github.com/googlefonts/mashanzheng",
+      "upstream_commit": "6bfdbe288f5935c6e9072cdd6ab1aa102a006aab"
+    },
+    {
+      "id": "longcang",
+      "family": "Long Cang",
+      "style_label_zh": "自然随写",
+      "path": "longcang/LongCang-Regular.ttf",
+      "sha256": "e5bf2c3f24ef2327c6f136d8f73e2f9dfdf44896fdbeb35a9515f44777bb91bc",
+      "license": "OFL-1.1",
+      "license_path": "longcang/OFL.txt",
+      "license_sha256": "603546b7219a94bb59bf8294458194a5010119486354092b66a09a3fd61aeacc",
+      "metadata_path": "longcang/METADATA.pb",
+      "copyright": "Copyright 2018 The Long Cang Project Authors (https://github.com/googlefonts/longcang)",
+      "upstream_repository": "https://github.com/m4rc1e/longcang",
+      "upstream_commit": "37b9a6c0b6e1f07d3d2bd4fb2674050be72b98a6"
+    },
+    {
+      "id": "zhimangxing",
+      "family": "Zhi Mang Xing",
+      "style_label_zh": "行书",
+      "path": "zhimangxing/ZhiMangXing-Regular.ttf",
+      "sha256": "644e0cae9b40f0b10ab729a01bd32032e3973bac22be3dccae01bf6ae7fde969",
+      "license": "OFL-1.1",
+      "license_path": "zhimangxing/OFL.txt",
+      "license_sha256": "10947328199e369a3e6b4a67e8e5507ed99d5bbb264a1f156415aa9b665e4d15",
+      "metadata_path": "zhimangxing/METADATA.pb",
+      "copyright": "Copyright 2018 The Zhi Mang Xing Project Authors (https://github.com/googlefonts/zhimangxing)",
+      "upstream_repository": "https://github.com/m4rc1e/zhimangxing",
+      "upstream_commit": "15cb1b0d4c78da973e8459a8e2f23a9aef00d8a6"
+    },
+    {
+      "id": "liujianmaocao",
+      "family": "Liu Jian Mao Cao",
+      "style_label_zh": "草写",
+      "path": "liujianmaocao/LiuJianMaoCao-Regular.ttf",
+      "sha256": "cab396b91a5b7c0b4005a35891180d06e6751f5ac261fe680aec65c1ae209033",
+      "license": "OFL-1.1",
+      "license_path": "liujianmaocao/OFL.txt",
+      "license_sha256": "ff56684b0212481e7c3886c26d5a655de9b211c8119e5ccc756138a97b066acc",
+      "metadata_path": "liujianmaocao/METADATA.pb",
+      "copyright": "Copyright 2018 The Liu Jian Mao Cao Project Authors (https://www.github.com/googlefonts/liujianmaocao)",
+      "upstream_repository": "https://github.com/googlefonts/liujianmaocao",
+      "upstream_commit": "e589ccd1fe37fa9d2076a52096a3e3992489ad2c"
+    },
+    {
+      "id": "zcoolkuaile",
+      "family": "ZCOOL KuaiLe",
+      "style_label_zh": "活泼展示",
+      "path": "zcoolkuaile/ZCOOLKuaiLe-Regular.ttf",
+      "sha256": "812a6fc1fe54b6d73a419245c32dfeba8aa33104d5be90d1cf6af082007cb71d",
+      "license": "OFL-1.1",
+      "license_path": "zcoolkuaile/OFL.txt",
+      "license_sha256": "538078469839b4a2e7ad22bef4ebe41681a4e53749bb2a072144024f1d6d703d",
+      "metadata_path": "zcoolkuaile/METADATA.pb",
+      "copyright": "Copyright 2018 The ZCOOL KuaiLe Project Authors (https://github.com/googlefonts/zcool-kuaile)",
+      "upstream_repository": "https://github.com/googlefonts/zcool-kuaile",
+      "upstream_commit": "577cd45e035fa0cd27f74579de6ff47db62fde8c"
+    },
+    {
+      "id": "xiaolai",
+      "family": "Xiaolai",
+      "style_label_zh": "圆润日常手写",
+      "path": "xiaolai/Xiaolai-Regular.ttf",
+      "sha256": "e2f68daf0e72777a8cf58bc83de1b98634b251e537ddbfca24b0ae50d1802da2",
+      "license": "OFL-1.1",
+      "license_path": "xiaolai/OFL.txt",
+      "license_sha256": "0df7e09be4c2c850a48bd8beb9cd64b343aad49cd5d3f6cfb2ad2e3d28a56ca4",
+      "metadata_path": "xiaolai/README-upstream.md",
+      "copyright": "Copyright 2020-2024 LXGW (https://github.com/lxgw/kose-font); Copyright 2014 Nozomi Seto (https://ja.osdn.net/projects/setofont/)",
+      "upstream_repository": "https://github.com/lxgw/kose-font",
+      "upstream_commit": "58beef8eceeab3ed51d5da173e016842dd5681fd",
+      "upstream_release": "v3.126",
+      "release_asset": "https://github.com/lxgw/kose-font/releases/download/v3.126/Xiaolai-Regular.ttf"
+    }
+  ]
+}

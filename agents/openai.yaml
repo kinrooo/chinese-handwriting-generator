@@ -1,0 +1,5 @@
+interface:
+  display_name: "中文手写生成器"
+  short_description: "批量生成自然中文手写图片、整页文稿、字体对比与扫描效果"
+  brand_color: "#2F4858"
+  default_prompt: "Use $chinese-handwriting-generator to turn my Chinese text or table column into varied handwriting images."
